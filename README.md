@@ -61,7 +61,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/leck995/WutheringWavesTool.git
+git clone https://github.com/anyonenotami/WutheringWavesTool.git
 cd WutheringWavesTool
 
 # 编译
