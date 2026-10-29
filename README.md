@@ -13,7 +13,7 @@
 
 ## ⬇️ 下载
 
-- 📦 **[点此下载程序](https://github.com/leck995/WutheringWavesTool/releases)**
+- 📦 **[点此下载程序](https://github.com/anyonenotami/WutheringWavesTool.git)**
 - 📖 **[点此查看使用教程](https://wave.999758.xyz/)**
 
 ## 📋 功能
